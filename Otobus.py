@@ -7,13 +7,16 @@ class Otobus:
     
     
 
-    def bilet_sat(self,satilan_koltuk_sayisi)
-        for i in range(0,self.koltuk_sayisi)
+    def bilet_sat(self,satilan_koltuk_sayisi):
+        
+        for i in range(0,self.koltuk_sayisi):
+            
             dolu_koltuk=+i
             
         
     
-    def bilet_iade(self,iade_koltuk)
+    def bilet_iade(self,iade_koltuk):
+        
         bos_koltuk=dolu_koltuk-iade_koltuk
                    
         
