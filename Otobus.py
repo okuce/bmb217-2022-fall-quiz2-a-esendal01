@@ -1,18 +1,27 @@
 class Otobus:
-    """Otobus bilet satis takip sinifi"""
+    def __init__(self,plaka,nerden,nereye,koltuk_sayisi):
+        self.plaka=plaka
+        self.nerden=nerden
+        self.nereye=nereye
+        self.koltuk=koltuk
+    
     
 
-    def bilet_sat(self):
-        """Otobusteki dolu koltuk sayisini 1 artirir"""
+    def bilet_sat(self.satilan_koltuk_sayisi)
+        for i in range(0,self.koltuk_sayisi)
+            dolu_koltuk=+i
+            
         
     
-    def bilet_iade(self):
-        """Otobusteki dolu koltuk sayisini 1 azaltir"""
+    def bilet_iade(self,iade_koltuk)
+        bos_koltuk=dolu_koltuk-iade_koltuk
+                   
+        
         
 
     
     def durum_yaz(self):
-        """Otobusun guzergahini, plakasini,bos ve dolu koltuk sayisini yazdirir"""
+        print({},{},{},{},{}.format(self.nerde,self.nereye,self.plaka,self.bos_koltuk,self.dolu_koltuk)
         
-
+#Esen dal
 
