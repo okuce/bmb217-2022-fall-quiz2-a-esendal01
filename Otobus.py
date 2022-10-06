@@ -24,7 +24,7 @@ class Otobus:
 
     
     def durum_yaz(self):
-        print({},{},{},{},{}.format(self.nerde,self.nereye,self.plaka,self.bos_koltuk,self.dolu_koltuk)
+        print({},{},{},{},{}.format(self.nerde,self.nereye,self.plaka,self.bos_koltuk,self.dolu_koltuk))
         
 #Esen dal
 
