@@ -7,7 +7,7 @@ class Otobus:
     
     
 
-    def bilet_sat(self.satilan_koltuk_sayisi)
+    def bilet_sat(self,satilan_koltuk_sayisi)
         for i in range(0,self.koltuk_sayisi)
             dolu_koltuk=+i
             
